@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-12-30T20:21:10Z",
+  "timestamp": "2022-12-31T08:59:30Z",
   "features": [
     {
       "type": "Feature",
@@ -10,12 +10,7 @@
         "@id": "node/2101809721",
         "name": "کتابفروشی دانشگاه اصفهان",
         "name:en": "University of Isfahan",
-        "shop": "books",
-        "@timestamp": "2016-01-17T23:13:03Z",
-        "@version": "2",
-        "@changeset": "36644717",
-        "@user": "kesler",
-        "@uid": "13908"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -32,12 +27,7 @@
         "@id": "node/2516151227",
         "name": "کتابسرا",
         "name:en": "Ketabsara",
-        "shop": "books",
-        "@timestamp": "2016-01-17T23:12:52Z",
-        "@version": "3",
-        "@changeset": "36644717",
-        "@user": "kesler",
-        "@uid": "13908"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -54,12 +44,7 @@
         "@id": "node/3523182795",
         "name": "کتابفروشی جنگل",
         "name:en": "Jungle book store",
-        "shop": "books",
-        "@timestamp": "2016-01-17T23:12:51Z",
-        "@version": "3",
-        "@changeset": "36644717",
-        "@user": "kesler",
-        "@uid": "13908"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -76,12 +61,7 @@
         "@id": "node/3652917912",
         "name": "پدرام",
         "name:en": "Pedram",
-        "shop": "books",
-        "@timestamp": "2022-05-24T16:36:07Z",
-        "@version": "3",
-        "@changeset": "121434386",
-        "@user": "erfnor",
-        "@uid": "6143886"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -99,12 +79,7 @@
         "name": "کتابفروشی گلفام",
         "phone": "+983132224201",
         "shop": "books",
-        "website": "http://golfambooks.com/",
-        "@timestamp": "2017-08-08T13:21:34Z",
-        "@version": "3",
-        "@changeset": "50944130",
-        "@user": "سبحان",
-        "@uid": "5036179"
+        "website": "http://golfambooks.com/"
       },
       "geometry": {
         "type": "Point",
@@ -121,12 +96,7 @@
         "@id": "node/4637505668",
         "name": "کتاب فروشی بزرگمهر",
         "name:en": "Bozorgmeher",
-        "shop": "books",
-        "@timestamp": "2017-01-27T13:35:49Z",
-        "@version": "1",
-        "@changeset": "45558812",
-        "@user": "geoaria",
-        "@uid": "1858958"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -144,12 +114,7 @@
         "addr:street": "خاقانی",
         "name": "کتابفروشی گتارو",
         "name:en": "Bookstore",
-        "shop": "books",
-        "@timestamp": "2022-07-06T15:24:20Z",
-        "@version": "3",
-        "@changeset": "123282817",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -166,12 +131,7 @@
         "@id": "node/4903872028",
         "addr:street": "نظر غربی",
         "name": "نوشت افزار",
-        "shop": "books",
-        "@timestamp": "2022-06-28T17:19:12Z",
-        "@version": "2",
-        "@changeset": "122966886",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -190,12 +150,7 @@
         "addr:street": "احمد رضا رضوانی",
         "name": "خانه پدری",
         "phone": "03113231236",
-        "shop": "books",
-        "@timestamp": "2017-07-19T12:48:53Z",
-        "@version": "3",
-        "@changeset": "50404458",
-        "@user": "Khalil Laleh",
-        "@uid": "4449060"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -215,12 +170,7 @@
         "name:en": "JunglePub",
         "phone": "+983132239466",
         "shop": "books",
-        "website": "https://www.jangal.com/",
-        "@timestamp": "2019-03-05T02:53:42Z",
-        "@version": "2",
-        "@changeset": "67788776",
-        "@user": "b-jazz-bot",
-        "@uid": "9451067"
+        "website": "https://www.jangal.com/"
       },
       "geometry": {
         "type": "Point",
@@ -238,12 +188,7 @@
         "name": "کتب علوم پزشکی کیا",
         "phone": "+983136699112",
         "shop": "books",
-        "website": "https://www.instagram.com/kia.book/",
-        "@timestamp": "2017-08-09T18:36:11Z",
-        "@version": "1",
-        "@changeset": "50980911",
-        "@user": "سبحان",
-        "@uid": "5036179"
+        "website": "https://www.instagram.com/kia.book/"
       },
       "geometry": {
         "type": "Point",
@@ -262,12 +207,7 @@
         "name": "انتشارات جنگل",
         "name:en": "Jungle Publications Store",
         "opening_hours": "Mo-Su 08:00-21:00",
-        "shop": "books",
-        "@timestamp": "2018-07-19T19:42:48Z",
-        "@version": "1",
-        "@changeset": "60882488",
-        "@user": "sajad abbasi",
-        "@uid": "7642236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -284,12 +224,7 @@
         "@id": "node/6005510086",
         "name": "شهر کتاب",
         "name:en": "Shahr-e Ketab",
-        "shop": "books",
-        "@timestamp": "2018-10-22T17:31:46Z",
-        "@version": "1",
-        "@changeset": "63767152",
-        "@user": "Manon Tazelaar",
-        "@uid": "8988528"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -304,12 +239,7 @@
       "type": "Feature",
       "properties": {
         "@id": "node/6128158996",
-        "shop": "books",
-        "@timestamp": "2018-12-10T11:55:34Z",
-        "@version": "1",
-        "@changeset": "65341337",
-        "@user": "Niclas Hinderberger",
-        "@uid": "8624411"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -325,12 +255,7 @@
       "properties": {
         "@id": "node/6442456785",
         "name": "فروشگاه بهار",
-        "shop": "books",
-        "@timestamp": "2019-05-02T09:51:38Z",
-        "@version": "1",
-        "@changeset": "69796556",
-        "@user": "میر محمدی",
-        "@uid": "9829437"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -344,14 +269,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6477205086",
+        "name": "فروشگاه یاسر",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6048253,
+          32.6846599
+        ]
+      },
+      "id": "node/6477205086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7206563742",
         "name": "کتاب زبانسرا",
-        "shop": "books",
-        "@timestamp": "2022-08-19T08:16:40Z",
-        "@version": "3",
-        "@changeset": "125094179",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -367,12 +303,7 @@
       "properties": {
         "@id": "node/7208715167",
         "name": "کتابفروشی فرهنگسرای اصفهان",
-        "shop": "books",
-        "@timestamp": "2020-02-13T17:43:48Z",
-        "@version": "2",
-        "@changeset": "80969770",
-        "@user": "PaolaJ",
-        "@uid": "10769463"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -388,12 +319,7 @@
       "properties": {
         "@id": "node/9821621798",
         "name": "کتابفروشی عصر کتاب",
-        "shop": "books",
-        "@timestamp": "2022-06-16T06:24:29Z",
-        "@version": "1",
-        "@changeset": "122445496",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -409,12 +335,7 @@
       "properties": {
         "@id": "node/9823339510",
         "name": "کتاب سرای یاس",
-        "shop": "books",
-        "@timestamp": "2022-06-16T18:27:41Z",
-        "@version": "1",
-        "@changeset": "122476186",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -431,12 +352,7 @@
         "@id": "node/9880378447",
         "name": "کتاب فروشی نوبهار",
         "phone": "+98 31 3222 9012",
-        "shop": "books",
-        "@timestamp": "2022-07-11T07:00:45Z",
-        "@version": "1",
-        "@changeset": "123458144",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -453,12 +369,7 @@
         "@id": "node/9880378458",
         "name": "کتاب سرای حکمت",
         "phone": "+98 31 3224 0608",
-        "shop": "books",
-        "@timestamp": "2022-07-11T07:00:45Z",
-        "@version": "1",
-        "@changeset": "123458144",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -474,12 +385,7 @@
       "properties": {
         "@id": "node/9880378461",
         "name": "انتشارات مهر قائم",
-        "shop": "books",
-        "@timestamp": "2022-07-11T07:00:45Z",
-        "@version": "1",
-        "@changeset": "123458144",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -495,12 +401,7 @@
       "properties": {
         "@id": "node/9880378487",
         "name": "کتاب خانه مهدویت حضرت ولی عصر",
-        "shop": "books",
-        "@timestamp": "2022-07-11T07:00:45Z",
-        "@version": "1",
-        "@changeset": "123458144",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
@@ -516,12 +417,7 @@
       "properties": {
         "@id": "node/9881578491",
         "name": "کتاب البرز",
-        "shop": "books",
-        "@timestamp": "2022-07-11T18:06:01Z",
-        "@version": "1",
-        "@changeset": "123486466",
-        "@user": "ImmaBeMe",
-        "@uid": "12733236"
+        "shop": "books"
       },
       "geometry": {
         "type": "Point",
