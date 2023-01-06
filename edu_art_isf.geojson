@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-01-06T08:41:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9566330303",
+        "contact:email": "edu@narbonac.com",
+        "name": "آموزشکده هنر ناربون",
+        "office": "educational_institution",
+        "phone": "+98 31 3627 9316",
+        "website": "https://narbonac.com/",
+        "@timestamp": "2022-03-26T05:17:06Z",
+        "@version": "2",
+        "@changeset": "118934304",
+        "@user": "b-jazz-bot",
+        "@uid": "9451067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6447921,
+          32.6347122
+        ]
+      },
+      "id": "node/9566330303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9566352051",
+        "description": "موسیقی،هنرهای تجسمی،ادبیات تئاتر",
+        "name": "موسسه فرهنگی هنری دیگر",
+        "office": "educational_institution",
+        "@timestamp": "2022-03-09T16:05:19Z",
+        "@version": "1",
+        "@changeset": "118285026",
+        "@user": "ImmaBeMe",
+        "@uid": "12733236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6451923,
+          32.6343561
+        ]
+      },
+      "id": "node/9566352051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9643274841",
+        "name": "آموزشکده آراد هنرهای تجسمی ارتا",
+        "office": "educational_institution",
+        "phone": "+98 31 3777 9680;+98 31 3776 0118;+98 913 102 8723",
+        "@timestamp": "2022-04-05T13:37:23Z",
+        "@version": "1",
+        "@changeset": "119345164",
+        "@user": "ImmaBeMe",
+        "@uid": "12733236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6209117,
+          32.6177446
+        ]
+      },
+      "id": "node/9643274841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9738762200",
+        "contact:phone": "+98 31 3777 0401",
+        "name": "موسسه فرهنگی هنری صبح روشن اصفهان",
+        "office": "educational_institution",
+        "@timestamp": "2022-05-14T02:32:26Z",
+        "@version": "1",
+        "@changeset": "120960140",
+        "@user": "ImmaBeMe",
+        "@uid": "12733236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6181786,
+          32.6237909
+        ]
+      },
+      "id": "node/9738762200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10245346091",
+        "addr:city": "اصفهان",
+        "addr:street": "خاقانی",
+        "description": "آموزشگاه سینمایی هژیر فیلم سپیدار (آموزشگاه هنرهای نمایشی هژیر فیلم سپیدار)\nتلفن تماس: 36273608-031\nاصفهان،خیابان وحید،ابتدای خیابان خاقانی،کوچه گلنار،آموزشگاه هژیر فیلم سپیدار",
+        "name": "آموزشگاه سینمایی هژیر فیلم سپیدار (آموزشگاه هنرهای نمایشی هژیر فیلم سپیدار)",
+        "office": "educational_institution",
+        "phone": "031-36273608",
+        "@timestamp": "2022-12-07T19:02:15Z",
+        "@version": "1",
+        "@changeset": "129832852",
+        "@user": "esfahanpezeshk",
+        "@uid": "17881906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.640077,
+          32.6344785
+        ]
+      },
+      "id": "node/10245346091"
+    }
+  ]
+}
